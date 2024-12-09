@@ -1,0 +1,13 @@
+aa, a, 0
+bb, b, 0
+cc, c, 0
+dd, d, 0
+ss, s, 0
+gg, g, 0
+test,1234,1000750
+mp,asdf,175
+abc,111,245
+ni,55,370
+asdfasdf, aaaa, 0
+cnbv,asdf,355
+Tryhard101,101,195

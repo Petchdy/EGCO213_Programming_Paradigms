@@ -1,0 +1,122 @@
+num, gender, skin, hair, nose, lip, decoration, clothes
+1, girl, white, black, cream, mouth, hat, long
+2, girl, black, black, blue, mouth, hat, short
+3, girl, white, black, blue, mouth, headband, short
+4, girl, white, black, blue, fang, hat, long
+5, girl, white, black, pink, teeth, hat, long
+6, girl, white, black, blue, teeth, hat, long
+7, girl, black, black, pink, teeth, headband, long
+8, girl, white, black, cream, teeth, hat, long
+9, girl, white, black, pink, mouth, earphone, long
+10, girl, white, black, pink, fang, earphone, long
+11, girl, black, black, pink, mouth, earphone, long
+12, girl, black, black, pink, teeth, glasses, long
+13, girl, white, black, blue, fang, earphone, short
+14, girl, black, black, pink, fang, hat, long
+15, girl, black, black, pink, teeth, headband, long
+16, girl, white, blue, pink, teeth, hat, short
+17, girl, black, blue, pink, mouth, headband, long
+18, girl, white, blue, blue, fang, hat, short
+19, girl, black, blue, blue, mouth, glasses, long
+20, girl, white, blue, blue, fang, hat, long
+21, girl, black, blue, pink, mouth, hat, long
+22, girl, black, blue, pink, teeth, hat, long
+23, girl, white, blue, blue, fang, glasses, long
+24, girl, black, blue, blue, mouth, headband, long
+25, girl, white, blue, blue, fang, earphone, long
+26, girl, white, blue, blue, mouth, hat, long
+27, girl, black, blue, cream, mouth, glasses, long
+28, girl, white, blue, cream, mouth, earphone, long
+29, girl, black, blue, cream, teeth, headband, long
+30, girl, white, blue, cream, teeth, headband, long
+31, girl, white, pink, pink, fang, glasses, long
+32, girl, black, pink, cream, teeth, hat, short
+33, girl, black, pink, cream, fang, headband, long
+34, girl, white, pink, pink, mouth, glasses, long
+35, girl, black, pink, pink, mouth, hat, long
+36, girl, black, pink, blue, fang, hat, long 
+37, girl, black, pink, pink, fang, headband, long 
+38, girl, white, pink, pink, teeth, glasses, long
+39, girl, white, pink, pink, mouth, headband, short 
+40, girl, white, pink, blue, mouth, hat, long 
+41, girl, black, pink, cream, mouth, hat, long 
+42, girl, black, pink, blue, teeth, headband, short 
+43, girl, white, pink, pink, fang, earphone, long 
+44, girl, black, pink, pink, mouth, headband, long
+45, girl, white, pink, blue, fang, glasses, long
+46, girl, white, yellow, pink, mouth, glasses, long
+47, girl, black, yellow, pink, teeth, headband, long
+48, girl, white, yellow, pink, teeth, headband, long
+49, girl, white, yellow, pink, mouth, glasses, long
+50, girl, black, yellow, pink, teeth, hat, long
+51, girl, black, yellow, cream, mouth, headband, short
+52, girl, white, yellow, pink, teeth, headband, short
+53, girl, white, yellow, cream, teeth, glasses, short
+54, girl, black, yellow, cream, mouth, glasses, long
+55, girl, black, yellow, pink, mouth, glasses, long
+56, girl, black, yellow, blue, teeth, headband, short 
+57, girl, white, yellow, pink, fang, glasses, long
+58, girl, white, yellow, pink, teeth, hat, long
+59, girl, white, yellow, cream, teeth, hat, long 
+60, girl, white, yellow, pink, fang, hat, long 
+61, boy,black,bald,cream,teeth,no,long
+62, boy,black,bald,pink,teeth,glasses,long
+63, boy,white,bald,cream,mouth,earphone,long
+64, boy,white,bald,cream,teeth,no,short
+65, boy,white,bald,cream,fang,glasses,long
+66, boy,black,bald,blue,teeth,glasses,long
+67, boy,white,bald,pink,teeth,earphone,long
+68, boy,white,bald,blue,fang,glasses,short
+69, boy,black,black,blue,mouth,glasses,long
+70, boy,white,black,cream,fang,headband,long
+71, boy,white,black,cream,teeth,glasses,long
+72, boy,white,black,cream,mouth,glasses,long
+73, boy,black,black,blue,teeth,glasses,short
+74, boy,black,black,cream,mouth,earphone,short
+75, boy,white,black,cream,teeth,hat,long
+76, boy,black,black,blue,mouth,hat,short
+77, boy,white,black,blue,mouth,glasses,short
+78, boy,white,black,blue,teeth,hat,long
+79, boy,white,black,pink,teeth,hat,long
+80, boy,white,black,blue,mouth,headband,long
+81, boy,white,black,blue,teeth,headband,long
+82, boy,white,blue,blue,fang,headband,short
+83, boy,black,blue,blue,mouth,glasses,short
+84, boy,white,blue,blue,mouth,headband,short
+85, boy,black,blue,blue,teeth,headband,long
+86, boy,white,blue,cream,teeth,earphone,long
+87, boy,white,blue,blue,teeth,hat,short
+88, boy,white,blue,cream,mouth,glasses,long
+89, boy,black,blue,cream,mouth,hat,long
+90, boy,white,blue,cream,fang,glasses,long
+91, boy,black,blue,pink,mouth,glasses,short
+92, boy,white,blue,blue,mouth,glasses,long
+93, boy,white,blue,pink,mouth,glasses,long
+94, boy,white,blue,cream,mouth,hat,long
+95, boy,black,pink,pink,mouth,hat,long
+96, boy,white,pink,blue,teeth,hat,long
+97, boy,white,pink,cream,teeth,headband,long
+98, boy,white,pink,pink,teeth,hat,long
+99, boy,white,pink,blue,fang,hat,long
+100, boy,white,pink,pink,fang,hat,long
+101, boy,black,pink,pink,teeth,earphone,long
+102, boy,black,pink,pink,fang,headband,long
+103, boy,black,pink,cream,fang,earphone,short
+104, boy,black,pink,cream,mouth,headband,long
+105, boy,white,pink,pink,fang,glasses,long
+106, boy,black,pink,blue,mouth,hat,long
+107, boy,white,pink,cream,mouth,glasses,long
+108, boy,white,yellow,pink,teeth,hat,long
+109, boy,black,yellow,pink,teeth,hat,long
+110, boy,black,yellow,cream,fang,glasses,long
+111, boy,black,yellow,pink,mouth,glasses,short
+112, boy,white,yellow,pink,mouth,glasses,long
+113, boy,black,yellow,pink,mouth,hat,long
+114, boy,black,yellow,cream,teeth,glasses,short
+115, boy,white,yellow,blue,mouth,glasses,long
+116, boy,black,yellow,cream,teeth,headband,long
+117, boy,white,yellow,cream,teeth,glasses,long
+118, boy,white,yellow,cream,mouth,glasses,long
+119, boy,white,yellow,blue,fang,glasses,long
+120, boy,black,yellow,blue,fang,headband,long
+
